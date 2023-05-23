@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Femi AKOTONOU</h1>
-<h3 align="center">A passionate frontend developer a passionate developer with a particular attraction for UX design</h3>
+<h3 align="center">A passionate frontend developer and web integrator with a particular attraction for UX design</h3>
 
 - 👯 I’m looking to collaborate on **open sources projects**
 
