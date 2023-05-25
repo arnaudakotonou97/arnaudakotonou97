@@ -17,7 +17,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-  ![Mantine UI](https://img.shields.io/badge/Mantine-Ui-lightgrey)
+  ![Mantine UI](https://img.shields.io/badge/Mantine-Ui-0A1A2F?style=flat)
 - 🛢 &nbsp;Backend as a Services:&nbsp;
   ![Supabase](https://img.shields.io/badge/-Supabase-0A1A2F?style=flat&logo=supabase)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
