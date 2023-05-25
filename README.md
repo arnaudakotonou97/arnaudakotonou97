@@ -7,10 +7,6 @@
 
 - 📝 I started writing articles on medium [https://medium.com/@femiakt](https://medium.com/@femiakt)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;Frontend:&nbsp;
