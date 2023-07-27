@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **open sources projects**
 
-- 👨‍💻 All of my projects are available at [https://femidev.vercel.app/](https://femidev.vercel.app/)
+- 👨‍💻 All of my projects are available at [femidev.com](https://femidev.com/)
 
 - 📝 I started writing articles on medium [https://medium.com/@femiakt](https://medium.com/@femiakt)
 
