@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm Femi AKOTONOU</h1>
-<h3 align="left">A passionate frontend developer and web integrator with a particular attraction for UX design</h3>
+<h3 align="left">A passionate Software developer with a particular attraction for UX design</h3>
 
 - 👯 I’m looking to collaborate on **open sources projects**
 
 - 👨‍💻 All of my projects are available at [femidev.com](https://femidev.com/)
-
-- 📝 I started writing articles on medium [https://medium.com/@femiakt](https://medium.com/@femiakt)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
